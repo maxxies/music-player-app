@@ -2,7 +2,7 @@
 Music player app made with c++ incorporating the use of Linkedlist and Sets.
 NB: To run the program:
 1. Put sound files in the same project as the program file.
-2. Go to setting on Code::Blocks
+2. Go to settings on Code::Blocks
  - Go to compiler.
  - Under compiler settings, check "Have g++ follow the C++11 ISO C++ language standard"
  - Select Ok.
